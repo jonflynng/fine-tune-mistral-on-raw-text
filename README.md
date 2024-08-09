@@ -1,5 +1,5 @@
 # fine-tune-mistral-on-raw-text
-A repo containing a Colab notebook for fine-tuning a Mistral Instruct LLM over raw text data. 
+A repo containing a Colab notebook for experimenting with fine-tuning a Mistral Instruct LLM over raw text data. 
 
 Link to TowardsDataScience article: https://towardsdatascience.com/fine-tune-an-instruct-model-over-raw-text-data-6db654e7e2ed
 
